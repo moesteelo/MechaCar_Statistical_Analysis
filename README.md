@@ -58,7 +58,12 @@
 **Both Null and Alternative hypotheses are both required to test properly and buid models. My hypothesis could be derived around the question "Do cars have better mpg in the winter or summer?"** 
 
  * **Null Hypothesis: It is likely that both seasons have no relation to mpg and there will no sufficient evidence of a relationship.**
- * **Alternate Hypothesis: 
+ * **Alternate Hypothesis: There will be sufficent evidence of a relationship to reject the null hypothesis.**
+
+## **Testing**
+
+**Similiar multiple linear regression models and t-tests could be used on the vehicle data with a significance level of 0.05%.**
+
  
 
 
