@@ -22,3 +22,44 @@
 **Based on the summary statistics, Lot 3 exceeds the allowed variation threshold while Lot 1 and 2 are within the allowed margins of 62 variance**
 
 ## T-Tests on Suspension Coils
+
+### **Overall Suummary T-Test**
+
+![T_test(PSI) ](https://user-images.githubusercontent.com/91576834/153687192-638f2a12-c88d-4081-b7aa-3fae00ea47ff.png)
+
+-**The overall summary t-test p-value of (0.4938) is significantly sufficient indicating that the PSI threshold of 1500 is across all manufacturing lots is not different from the population mean.** 
+
+### Manufacturing lot 1
+
+![t_test(lot 1) ](https://user-images.githubusercontent.com/91576834/153687577-a8e15c9f-1483-4260-9080-36603f4ce928.png)
+
+**The p-value of Manufacturing lot 1 indicates strong evidence that lot 1 is similiar to the population mean of 1,500 PSI.**
+
+### Manufacturing lot 2 
+
+![t_test (lot 2)](https://user-images.githubusercontent.com/91576834/153688123-1a29decb-ca25-41c7-a655-9a9a9df1efe5.png)
+
+**The p-value of Manufacturing lot 2 indicates strong evidence that lot 2 is similiar to the population mean of 1,500 PSI.**
+
+### Manufacturing lot 3 
+
+![t_test (lot 3)](https://user-images.githubusercontent.com/91576834/153688240-dd29f118-2522-4595-b347-4696b6d79e88.png)
+
+
+**The p-value of Manufacturing lot 3 indicates that there is not strong evidence that lot 3 is similiar to the population mean of 1,500 PSI.**
+
+
+## Study Design: MechaCar vs Competition 
+
+**The statistical models and testing above prove that it would be possible to analyze different production metrics of other vehicles and manufacturing lots. Having similar vehicle data’s would allow comparison between MechaCars productions and competitors. Similar data metrics should include vehicle production and performance specifications. Vehicle data metrics such as miles per gallon (mpg), car weight, and other physical features could be tested to identify vehicle performance and how they correlate with each other.**
+
+## **Hypotheses**
+
+**Both Null and Alternative hypotheses are both required to test properly and buid models. My hypothesis could be derived around the question "Do cars have better mpg in the winter or summer?"** 
+
+ * **Null Hypothesis: It is likely that both seasons have no relation to mpg and there will no sufficient evidence of a relationship.**
+ * **Alternate Hypothesis: 
+ 
+
+
+
