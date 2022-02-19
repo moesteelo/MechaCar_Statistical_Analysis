@@ -64,6 +64,12 @@
 
 **Similiar multiple linear regression models and t-tests could be used on the vehicle data with a significance level of 0.05%.**
 
+## **Resources**
+
+[MechaCar MPG Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_15/MechaCar_mpg.csv)
+
+[Suspension Coil Dataset](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_15/Suspension_Coil.csv)
+
  
 
 
